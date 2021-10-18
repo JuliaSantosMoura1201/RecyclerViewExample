@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="label_day">Dia %d</string>
+</resources>
